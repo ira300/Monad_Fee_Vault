@@ -7,7 +7,7 @@ This project demonstrates a use case for generating tokens on the Monad network 
 ```
 hardhat-monad/
 ├── contracts/             
-│   └── TokenFactory.sol   
+│   └── GameAccessPaywall.sol  
 ├── .env.example           
 ├── hardhat.config.ts      
 ├── package.json
