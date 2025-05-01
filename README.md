@@ -27,8 +27,8 @@ hardhat-monad/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/portdeveloper/hardhat-monad.git
-   cd hardhat-monad
+   git clone https://github.com/ira300/Monad_Fee_Vault.git
+   cd Monad_Fee_Vault
    ```
 
 2. Install dependencies:
