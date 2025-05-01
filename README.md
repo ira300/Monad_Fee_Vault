@@ -1,6 +1,6 @@
 # Monad Flavored Hardhat Launcher
 
-This project demonstrates a use case for generating tokens on the Monad network from Hardhat Optimize.
+This project demonstrates a use case for generating Fee_Vault on Hardhat Optimize's Monad network.
 
 ## Project Structure
 
